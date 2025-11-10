@@ -1,4 +1,4 @@
-v bnmpublic class Main{
+v bnmpu class Main{
     public static void main(String[]args){
         System.out.println("Hello world");
     }
